@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">PetemuanPertama</string>
+    <string name="toast">Toast</string>
+    <string name="default_angka">0</string>
+    <string name="count">COUNT</string>
+    <string name="your_name">Your Name</string>
+    <string name="price_5">Price $5</string>
+    <string name="nol">1</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="topping_this_day">Taste Today</string>
+    <string name="kaju">Kaju</string>
+    <string name="jeruk">Orange Flavor</string>
+    <string name="melon">Melon Flavor</string>
+    <string name="mango_flavor">Mango Flavor</string>
+    <string name="order_now">Order Now</string>
+    <string name="default_order">Name : Ihsan Abdurahman  \nOrder Amount : 1 \nTaste : Keju \nThank You</string>
+    <string name="clear">Clear</string>
+    <string name="ihsan_abdurahman">Ihsan Abdurahman</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">Ihsan Abdurahman</string>
+    <string name="register">Register</string>
+    <string name="Username">Username</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="simpan">Simpan</string>
+    <string name="Password">Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="forgot_your_password">Lupa Password</string>
+    <string name="login">Login</string>
+</resources>
